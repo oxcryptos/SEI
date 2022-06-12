@@ -236,7 +236,7 @@
 **Делегировать**
 
 
-    seid tx staking delegate $VALOPER_ADDRESS 10000000usei --from=$WALLET --chain-id=$CHAIN_ID --gas=auto
+    seid tx staking delegate $VALOPER_ADDRESS 900000usei --from=$WALLET --chain-id=$CHAIN_ID  --fees=500usei
 
 **Ределегировать другому валидатору**
 
