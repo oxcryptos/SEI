@@ -195,7 +195,7 @@
     seid query bank balances $WALLET_ADDRESS
 **Сделать трансфер**
 
-    seid tx bank send $WALLET_ADDRESS <TO_WALLET_ADDRESS> 10000000usei
+    seid tx bank send <FROM WALLET ADDRESS> <TO WALLET ADDRESS> 900000usei --chain-id=$CHAIN_ID  --fees=500usei
     
 
 
