@@ -232,11 +232,7 @@
 
 **Освободить валидатора**
 
-    seid tx slashing unjail \
-      --broadcast-mode=block \
-      --from=$WALLET \
-      --chain-id=$CHAIN_ID \
-      --gas=auto
+     seid tx slashing unjail --from $WALLET_ADDRESS --fees 5555usei -y
       
 ### Делегирование, ределигирование, клайм
 
