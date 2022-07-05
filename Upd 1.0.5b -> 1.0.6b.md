@@ -10,9 +10,11 @@
 	make install
 
 	seid version --long | head
+	
     
 >  version 1.0.6beta 
 > 
 >  commit: e3958ff9cc3fa00a12b0c32cf55b635baa0d49bd
 
 	sudo systemctl restart seid && journalctl -u seid -f -o cat
+	
