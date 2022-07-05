@@ -10,7 +10,7 @@
 
 ### [Обновление до 1.0.4beta (22.06.22)](https://github.com/0xCryptos/SEI/blob/main/Upd%201.0.3b%20-%3E%201.0.4b.md) 
 ### [Обновление до 1.0.5beta (30.06.22)](https://github.com/0xCryptos/SEI/blob/main/Upd%201.0.4b%20-%3E%201.0.5b.md)
-
+### [Обновление до 1.0.6beta (04.07.22)](https://github.com/0xCryptos/SEI/blob/main/Upd%201.0.5b%20-%3E%201.0.6b.md)
 
 
 
