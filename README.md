@@ -230,9 +230,6 @@
     --chain-id=$CHAIN_ID \
     --from=$WALLET
 
-**Освободить валидатора**
-
-     seid tx slashing unjail --from $WALLET_ADDRESS --fees 5555usei -y
       
 ### Делегирование, ределигирование, клайм
 
